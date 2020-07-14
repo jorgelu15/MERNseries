@@ -1,0 +1,3 @@
+# MERNseries
+this is just a sample project for a YT's video...
+i dont have interest some 
